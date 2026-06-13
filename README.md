@@ -198,23 +198,50 @@ Supported Data Structures and Algorithms practical modules.
 
 # Certifications
 
-## AWS
+<div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-Future%20Learning-FF9900?style=for-the-badge\&logo=amazonaws)
+| Certification | Provider | Issued |
+|--------------|----------|---------|
+| AI for Business Analysts | Techademy Global | Jun 2026 |
+| AI for Software Engineering | DataCamp | Jun 2026 |
+| AI for Project Managers | Techademy Global | Jun 2026 |
+| Introduction to GitHub Concepts | DataCamp | Jun 2026 |
+| Introduction to Power BI | DataCamp | Jun 2026 |
+| Working with the OpenAI API | DataCamp | Jun 2026 |
+| Google AI Essentials | Coursera | May 2026 |
 
-## Oracle
+</div>
 
-![Oracle](https://img.shields.io/badge/Oracle-Database%20Technology-F80000?style=for-the-badge\&logo=oracle)
+<br>
 
-## NPTEL
+<div align="center">
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Continuous%20Learning-6A5ACD?style=for-the-badge)
+![Techademy](https://img.shields.io/badge/Techademy-AI%20for%20Business%20Analysts-8A2BE2?style=for-the-badge)
 
-## Cisco
+![Techademy](https://img.shields.io/badge/Techademy-AI%20for%20Project%20Managers-6A5ACD?style=for-the-badge)
 
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge\&logo=cisco)
+![DataCamp](https://img.shields.io/badge/DataCamp-AI%20for%20Software%20Engineering-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
 
----
+![DataCamp](https://img.shields.io/badge/DataCamp-OpenAI%20API-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
+
+![DataCamp](https://img.shields.io/badge/DataCamp-GitHub%20Concepts-03EF62?style=for-the-badge&logo=github&logoColor=white)
+
+![DataCamp](https://img.shields.io/badge/DataCamp-Power%20BI-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
+
+![Coursera](https://img.shields.io/badge/Coursera-Google%20AI%20Essentials-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+
+</div>
+
+### Certification Highlights
+
+- AI for Business Analysts — Applying AI within business analysis processes.
+- AI for Software Engineering — AI-assisted software development workflows and tools.
+- AI for Project Managers — Leveraging AI for project planning and delivery.
+- Working with the OpenAI API — Building applications using OpenAI services.
+- Introduction to GitHub Concepts — Version control and collaboration fundamentals.
+- Introduction to Power BI — Data visualization and business intelligence.
+- Google AI Essentials — Responsible AI, prompt engineering, and practical AI applications.
+
 
 # GitHub Analytics
 
