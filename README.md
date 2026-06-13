@@ -184,17 +184,15 @@ Supported Data Structures and Algorithms practical modules.
 
 <div align="center">
 
-| Recognition                            | Details                                |
-| -------------------------------------- | -------------------------------------- |
-| Information Technology Subject Award   | 2019                                   |
-| Information Technology Subject Award   | 2020                                   |
-| Merit Colours for Academic Achievement | 2020                                   |
-| Technical Lead Appointment             | Nelson Mandela University              |
-| Honours Graduate                       | Computer Science & Information Systems |
+| Recognition                            | Institution                    | Year |
+| -------------------------------------- | ------------------------------ | ---- |
+| Information Technology Subject Award   | Pinelands High School          | 2019 |
+| Information Technology Subject Award   | Pinelands High School          | 2020 |
+| Merit Colours for Academic Achievement | Pinelands High School          | 2020 |
+| BSc Graduate (Computer Science & Statistics) | Nelson Mandela University | 2024 |
+| BSc Honours Graduate (Computer Science & Information Systems) | Nelson Mandela University | 2025 |
 
 </div>
-
----
 
 # Certifications
 
