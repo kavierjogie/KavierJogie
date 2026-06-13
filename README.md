@@ -95,20 +95,6 @@ I enjoy building scalable applications, developing intelligent systems, and tran
 
 ---
 
-# AI / ML Expertise
-
-| Domain                     | Proficiency                  | Details                                       |
-| -------------------------- | ---------------------------- | --------------------------------------------- |
-| Machine Learning           | Intermediate                 | Model evaluation, classification, clustering  |
-| Data Mining                | Advanced Academic Experience | K-Means, Association Analysis, Classification |
-| Statistical Analysis       | Advanced                     | Statistics degree background                  |
-| Data Preprocessing         | Advanced                     | Feature engineering and data preparation      |
-| AI Application Development | Intermediate                 | AI-driven software solutions                  |
-| Predictive Analytics       | Intermediate                 | Data-driven decision support                  |
-| Research & Evaluation      | Advanced                     | Academic research methodologies               |
-
----
-
 # Featured Projects
 
 <details>
@@ -230,30 +216,6 @@ Supported Data Structures and Algorithms practical modules.
 
 ---
 
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-0F9D58?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="https://www.hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-Skills%20Verification-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
 # GitHub Analytics
 
 <div align="center">
@@ -268,31 +230,11 @@ Supported Data Structures and Algorithms practical modules.
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kavierjogie&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavierjogie&theme=tokyo-night"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kavierjogie/kavierjogie/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
