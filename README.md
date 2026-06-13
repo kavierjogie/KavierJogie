@@ -249,37 +249,6 @@ Supported Data Structures and Algorithms practical modules.
 
 ---
 
-# Current Focus
-
-```yaml
-learning:
-  - Advanced Software Engineering
-  - Artificial Intelligence
-  - Machine Learning
-  - Cloud Technologies
-  - System Design
-
-building:
-  - Android Applications
-  - Data-Driven Systems
-  - AI-Powered Solutions
-  - Open Source Projects
-
-exploring:
-  - MLOps
-  - Generative AI
-  - Scalable Architectures
-  - Product Engineering
-
-open_to:
-  - Software Engineering Roles
-  - Graduate Developer Programs
-  - AI Engineering Opportunities
-  - Open Source Collaboration
-```
-
----
-
 # Connect
 
 <div align="center">
