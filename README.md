@@ -214,24 +214,6 @@ Supported Data Structures and Algorithms practical modules.
 
 <br>
 
-<div align="center">
-
-![Techademy](https://img.shields.io/badge/Techademy-AI%20for%20Business%20Analysts-8A2BE2?style=for-the-badge)
-
-![Techademy](https://img.shields.io/badge/Techademy-AI%20for%20Project%20Managers-6A5ACD?style=for-the-badge)
-
-![DataCamp](https://img.shields.io/badge/DataCamp-AI%20for%20Software%20Engineering-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
-
-![DataCamp](https://img.shields.io/badge/DataCamp-OpenAI%20API-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
-
-![DataCamp](https://img.shields.io/badge/DataCamp-GitHub%20Concepts-03EF62?style=for-the-badge&logo=github&logoColor=white)
-
-![DataCamp](https://img.shields.io/badge/DataCamp-Power%20BI-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
-
-![Coursera](https://img.shields.io/badge/Coursera-Google%20AI%20Essentials-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-
-</div>
-
 ### Certification Highlights
 
 - AI for Business Analysts — Applying AI within business analysis processes.
