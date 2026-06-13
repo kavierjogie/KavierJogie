@@ -198,15 +198,30 @@ Supported Data Structures and Algorithms practical modules.
 
 <div align="center">
 
-| Certification | Provider | Issued | Credential |
-|--------------|----------|---------|------------|
-| AI for Business Analysts | Techademy Global | Jun 2026 | [View](https://www.techademyonline.com/credentials/60e81de9-fd8f-41cf-a84a-0d07a1556884) |
-| AI for Software Engineering | DataCamp | Jun 2026 | [View](https://www.datacamp.com/completed/statement-of-accomplishment/track/c679960d2766b06d9a827b31862bc2b2419b752b) |
-| AI for Project Managers | Techademy Global | Jun 2026 | [View](https://www.techademyonline.com/credentials/8a7fd9ae-3e70-4f18-84dc-5c570048c440) |
-| Introduction to GitHub Concepts | DataCamp | Jun 2026 | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/108fb4971ddea5f61fabe29aaf20dcf394d51664) |
-| Introduction to Power BI | DataCamp | Jun 2026 | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/6ae18b0c348e498630c71d5d77786801f203ec5e) |
-| Working with the OpenAI API | DataCamp | Jun 2026 | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/b1f1345dce8e32e465860be47c5b7b9ca87bc58e) |
-| Google AI Essentials | Coursera | May 2026 | [View](https://coursera.org/share/b66d338802cb0634e2817add0a8e8d94) |
+| Certification                   | Provider         | Year | View                                                                                                                   |
+| ------------------------------- | ---------------- | ---- | ---------------------------------------------------------------------------------------------------------------------- |
+| AI for Software Engineering     | DataCamp         | 2026 | [View](https://www.datacamp.com/completed/statement-of-accomplishment/track/c679960d2766b06d9a827b31862bc2b2419b752b)  |
+| Working with the OpenAI API     | DataCamp         | 2026 | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/b1f1345dce8e32e465860be47c5b7b9ca87bc58e) |
+| AI for Business Analysts        | Techademy Global | 2026 | [View](https://www.techademyonline.com/credentials/60e81de9-fd8f-41cf-a84a-0d07a1556884)                               |
+| AI for Project Managers         | Techademy Global | 2026 | [View](https://www.techademyonline.com/credentials/8a7fd9ae-3e70-4f18-84dc-5c570048c440)                               |
+| Introduction to GitHub Concepts | DataCamp         | 2026 | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/108fb4971ddea5f61fabe29aaf20dcf394d51664) |
+| Introduction to Power BI        | DataCamp         | 2026 | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/6ae18b0c348e498630c71d5d77786801f203ec5e) |
+| Google AI Essentials            | Coursera         | 2026 | [View](https://coursera.org/share/b66d338802cb0634e2817add0a8e8d94)                                                    |
+
+</div>
+# Certifications
+
+<div align="center">
+
+| Certification                   | Provider         | Year | View                                                                                                                   |
+| ------------------------------- | ---------------- | ---- | ---------------------------------------------------------------------------------------------------------------------- |
+| AI for Software Engineering     | DataCamp         | 2026 | [View](https://www.datacamp.com/completed/statement-of-accomplishment/track/c679960d2766b06d9a827b31862bc2b2419b752b)  |
+| Working with the OpenAI API     | DataCamp         | 2026 | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/b1f1345dce8e32e465860be47c5b7b9ca87bc58e) |
+| AI for Business Analysts        | Techademy Global | 2026 | [View](https://www.techademyonline.com/credentials/60e81de9-fd8f-41cf-a84a-0d07a1556884)                               |
+| AI for Project Managers         | Techademy Global | 2026 | [View](https://www.techademyonline.com/credentials/8a7fd9ae-3e70-4f18-84dc-5c570048c440)                               |
+| Introduction to GitHub Concepts | DataCamp         | 2026 | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/108fb4971ddea5f61fabe29aaf20dcf394d51664) |
+| Introduction to Power BI        | DataCamp         | 2026 | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/6ae18b0c348e498630c71d5d77786801f203ec5e) |
+| Google AI Essentials            | Coursera         | 2026 | [View](https://coursera.org/share/b66d338802cb0634e2817add0a8e8d94)                                                    |
 
 </div>
 
