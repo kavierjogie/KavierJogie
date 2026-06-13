@@ -1,16 +1,362 @@
-## Hi there 👋
+# <div align="center">
 
-<!--
-**kavierjogie/KavierJogie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4B0082,50:6A5ACD,100:8A2BE2&text=Kavier%20Jogie&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Computer%20Science%20Graduate&descAlignY=60"/>
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=600\&size=28\&duration=3000\&pause=1000\&color=8A2BE2\&center=true\&vCenter=true\&width=1000\&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Android+Developer;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+![BSc](https://img.shields.io/badge/BSc-Computer%20Science%20%26%20Statistics-6A5ACD?style=for-the-badge)
+![Honours](https://img.shields.io/badge/BSc\(Hons\)-Computer%20Science%20%26%20Information%20Systems-8A2BE2?style=for-the-badge)
+![Graduate](https://img.shields.io/badge/Graduate-Software%20Engineering-4B0082?style=for-the-badge)
+
+![Location](https://img.shields.io/badge/Cape%20Town-South%20Africa-6A5ACD?style=for-the-badge)
+
+<a href="mailto:kavier.jogie@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kavier-jogie-2a9614319">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kavierjogie">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-8A2BE2?style=for-the-badge"/>
+</a>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=kavierjogie\&style=for-the-badge\&color=8A2BE2)
+![](https://img.shields.io/github/followers/kavierjogie?style=for-the-badge\&color=6A5ACD)
+![](https://img.shields.io/github/stars/kavierjogie?affiliations=OWNER%2CCOLLABORATOR\&style=for-the-badge\&color=4B0082)
+
+</div>
+
+---
+
+# About Me
+
+Software Engineer and Computer Science graduate with a strong foundation in software development, system design, mobile applications, AI-driven solutions, and data-driven problem solving.
+
+I enjoy building scalable applications, developing intelligent systems, and transforming complex business requirements into practical software solutions. My academic and project experience spans Android development, full-stack web applications, cloud-integrated systems, software engineering practices, machine learning concepts, and data analytics.
+
+### Core Focus Areas
+
+* Software Engineering
+* Artificial Intelligence & Machine Learning
+* Android Development
+* Full Stack Development
+* Cloud-Connected Applications
+* Data Analytics & Visualization
+* Product Engineering
+* Agile Development
+
+### Open To
+
+* Graduate Software Engineering Roles
+* Junior Software Developer Positions
+* AI / ML Engineering Opportunities
+* Android Development Roles
+* Full Stack Engineering Roles
+* Technical Consulting Opportunities
+* Open Source Collaboration
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cs,js,html,css" />
+</p>
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+## Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" />
+</p>
+
+## Cloud, DevOps & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,visualstudio,idea" />
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain                     | Proficiency                  | Details                                       |
+| -------------------------- | ---------------------------- | --------------------------------------------- |
+| Machine Learning           | Intermediate                 | Model evaluation, classification, clustering  |
+| Data Mining                | Advanced Academic Experience | K-Means, Association Analysis, Classification |
+| Statistical Analysis       | Advanced                     | Statistics degree background                  |
+| Data Preprocessing         | Advanced                     | Feature engineering and data preparation      |
+| AI Application Development | Intermediate                 | AI-driven software solutions                  |
+| Predictive Analytics       | Intermediate                 | Data-driven decision support                  |
+| Research & Evaluation      | Advanced                     | Academic research methodologies               |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>📱 Netball Performance Analysis Mobile Application</b></summary>
+
+### Project Overview
+
+Android application designed for real-time netball performance tracking and statistical analysis.
+
+| Metric      | Details                                         |
+| ----------- | ----------------------------------------------- |
+| Stack       | Java, Android Studio, Supabase, PostgreSQL      |
+| Scale       | Multi-user coaching environment                 |
+| Performance | Real-time match statistics                      |
+| Security    | Secure Authentication & Cloud Data Storage      |
+| Impact      | Improved coaching decisions and player analysis |
+| Repository  | Available on request                            |
+
+### Professional Summary
+
+Developed an Android-based performance analysis platform that enables coaches to capture player statistics during live matches. The system integrates cloud-based storage through Supabase and provides centralized management of players, matches, and performance metrics.
+
+</details>
+
+<details>
+<summary><b>🌐 Souls Donation Management Platform</b></summary>
+
+### Project Overview
+
+Donation management web application connecting donors, beneficiaries, and non-profit organizations.
+
+| Metric      | Details                         |
+| ----------- | ------------------------------- |
+| Stack       | HTML, CSS, JavaScript           |
+| Scale       | Multi-role platform             |
+| Performance | Dynamic user interactions       |
+| Security    | Role-based access control       |
+| Impact      | Streamlined donation management |
+| Repository  | Academic Project                |
+
+### Professional Summary
+
+Collaboratively developed a web-based donation platform that facilitates interaction between donors and recipients through nonprofit organizations. Implemented user management, budget workflows, compatibility matching, and profile management functionality.
+
+</details>
+
+---
+
+# Experience
+
+## Technical Lead — Nelson Mandela University
+
+**April 2025 – October 2025**
+
+Provided guidance and mentorship to third-year Computer Science students throughout the software development lifecycle.
+
+### Scope of Work
+
+* Guided project planning and execution
+* Assisted with software architecture decisions
+* Conducted technical reviews
+* Mentored students on development practices
+* Supported Agile project workflows
+
+**Skills:** `Leadership` `Software Engineering` `Mentoring` `Agile`
+
+---
+
+## Lab Assistant — Nelson Mandela University
+
+**February 2024 – June 2024**
+
+Supported Data Structures and Algorithms practical modules.
+
+### Scope of Work
+
+* Assessed student practical submissions
+* Assisted with debugging and problem solving
+* Supported programming laboratory sessions
+* Evaluated algorithm implementations
+
+**Skills:** `Java` `Algorithms` `Data Structures` `Technical Support`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition                            | Details                                |
+| -------------------------------------- | -------------------------------------- |
+| Information Technology Subject Award   | 2019                                   |
+| Information Technology Subject Award   | 2020                                   |
+| Merit Colours for Academic Achievement | 2020                                   |
+| Technical Lead Appointment             | Nelson Mandela University              |
+| Honours Graduate                       | Computer Science & Information Systems |
+
+</div>
+
+---
+
+# Certifications
+
+## AWS
+
+![AWS](https://img.shields.io/badge/AWS-Future%20Learning-FF9900?style=for-the-badge\&logo=amazonaws)
+
+## Oracle
+
+![Oracle](https://img.shields.io/badge/Oracle-Database%20Technology-F80000?style=for-the-badge\&logo=oracle)
+
+## NPTEL
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Continuous%20Learning-6A5ACD?style=for-the-badge)
+
+## Cisco
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge\&logo=cisco)
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-0F9D58?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://www.hackerrank.com">
+<img src="https://img.shields.io/badge/HackerRank-Skills%20Verification-00EA64?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.codechef.com">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavierjogie&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kavierjogie&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavierjogie&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kavierjogie&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavierjogie&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kavierjogie/kavierjogie/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+learning:
+  - Advanced Software Engineering
+  - Artificial Intelligence
+  - Machine Learning
+  - Cloud Technologies
+  - System Design
+
+building:
+  - Android Applications
+  - Data-Driven Systems
+  - AI-Powered Solutions
+  - Open Source Projects
+
+exploring:
+  - MLOps
+  - Generative AI
+  - Scalable Architectures
+  - Product Engineering
+
+open_to:
+  - Software Engineering Roles
+  - Graduate Developer Programs
+  - AI Engineering Opportunities
+  - Open Source Collaboration
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:kavier.jogie@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-kavier.jogie@gmail.com-8A2BE2?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kavier-jogie-2a9614319">
+<img src="https://img.shields.io/badge/LinkedIn-Kavier%20Jogie-6A5ACD?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/kavierjogie">
+<img src="https://img.shields.io/badge/GitHub-kavierjogie-4B0082?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-8A2BE2?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Engineering reliable software, intelligent systems, and impactful digital products."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4B0082,50:6A5ACD,100:8A2BE2"/>
+
+</div>
