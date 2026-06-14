@@ -9,20 +9,6 @@
 ![BSc](https://img.shields.io/badge/BSc-Computer%20Science%20%26%20Statistics-6A5ACD?style=for-the-badge)
 ![Honours](https://img.shields.io/badge/BSc\(Hons\)-Computer%20Science%20%26%20Information%20Systems-8A2BE2?style=for-the-badge)
 
-![Location](https://img.shields.io/badge/Cape%20Town-South%20Africa-6A5ACD?style=for-the-badge)
-
-<a href="mailto:kavier.jogie@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kavier-jogie-2a9614319">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-8A2BE2?style=for-the-badge"/>
-</a>
-
 <br>
 </div>
 
