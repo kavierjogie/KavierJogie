@@ -8,7 +8,6 @@
 
 ![BSc](https://img.shields.io/badge/BSc-Computer%20Science%20%26%20Statistics-6A5ACD?style=for-the-badge)
 ![Honours](https://img.shields.io/badge/BSc\(Hons\)-Computer%20Science%20%26%20Information%20Systems-8A2BE2?style=for-the-badge)
-![Graduate](https://img.shields.io/badge/Graduate-Software%20Engineering-4B0082?style=for-the-badge)
 
 ![Location](https://img.shields.io/badge/Cape%20Town-South%20Africa-6A5ACD?style=for-the-badge)
 
@@ -29,11 +28,6 @@
 </a>
 
 <br>
-
-![](https://komarev.com/ghpvc/?username=kavierjogie\&style=for-the-badge\&color=8A2BE2)
-![](https://img.shields.io/github/followers/kavierjogie?style=for-the-badge\&color=6A5ACD)
-![](https://img.shields.io/github/stars/kavierjogie?affiliations=OWNER%2CCOLLABORATOR\&style=for-the-badge\&color=4B0082)
-
 </div>
 
 ---
