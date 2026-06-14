@@ -65,11 +65,19 @@ I enjoy building scalable applications, developing intelligent systems, and tran
 <img src="https://skillicons.dev/icons?i=java,cs,js,html,css" />
 </p>
 
+**Languages:** Java, C#, JavaScript, HTML, CSS  
+
+---
+
 ## Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
+
+**Frontend:** HTML, CSS, JavaScript  
+
+---
 
 ## Backend & Databases
 
@@ -77,13 +85,17 @@ I enjoy building scalable applications, developing intelligent systems, and tran
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" />
 </p>
 
+**Backend & Databases:** Supabase, PostgreSQL, MySQL  
+
+---
+
 ## Cloud, DevOps & Tooling
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,androidstudio,visualstudio,idea" />
 </p>
 
----
+**Tools:** Git, GitHub, Android Studio, Visual Studio, IntelliJ IDEA  
 
 # Featured Projects
 
