@@ -4,12 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=600\&size=28\&duration=3000\&pause=1000\&color=8A2BE2\&center=true\&vCenter=true\&width=1000\&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Android+Developer;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 
-<br>
-
-![BSc](https://img.shields.io/badge/BSc-Computer%20Science%20%26%20Statistics-6A5ACD?style=for-the-badge)
-![Honours](https://img.shields.io/badge/BSc\(Hons\)-Computer%20Science%20%26%20Information%20Systems-8A2BE2?style=for-the-badge)
-
-<br>
 </div>
 
 ---
