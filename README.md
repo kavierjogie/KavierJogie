@@ -19,10 +19,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/kavierjogie">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="#">
 <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-8A2BE2?style=for-the-badge"/>
 </a>
